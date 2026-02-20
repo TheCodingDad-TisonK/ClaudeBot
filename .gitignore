@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment — NEVER commit this, it has your tokens
+.env
+
+# Scratchpad notes (personal/runtime data)
+scratchpad/
+
+# Logs
+logs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Runtime
+package-lock.json
