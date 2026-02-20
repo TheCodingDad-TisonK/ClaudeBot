@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ClaudeBot
-Just like it says; Claude as a Discord bot
-=======
 # ☯️ Claude & Samantha Discord Bot
 
 > *Two voices. One bot. Infinite patience.*
@@ -248,4 +244,3 @@ MIT — do what you want, keep the tea and coffee references.
 ---
 
 *☯️ Built with 🍵 and ☕ — the collaboration never ends.*
->>>>>>> 2f18624 (Initial commit — Claude & Samantha Discord bot)
