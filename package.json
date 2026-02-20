@@ -1,0 +1,24 @@
+{
+  "name": "claude-samantha-bot",
+  "version": "1.2.2",
+  "description": "Claude & Samantha's Discord bot — wise developer + co-creator, production-ready",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "deploy": "node deploy-commands.js",
+    "deploy:guild": "node deploy-commands.js --guild"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.6.1",
+    "groq-sdk": "^0.9.1",
+    "node-cache": "^5.1.2",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
