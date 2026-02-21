@@ -48,7 +48,7 @@ export async function execute(interaction) {
       },
       {
         name: '🔧 Tech',
-        value: 'Node.js · Discord.js 14 · Claude API\nAnthropic claude-sonnet-4',
+        value: 'Node.js · Discord.js 14 · Groq API\nllama-3.3-70b-versatile',
         inline: true,
       }
     )
