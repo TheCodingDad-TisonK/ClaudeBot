@@ -2,7 +2,7 @@
 
 > *Two voices. One bot. Infinite patience.*
 
-A production-ready Discord bot embodying the **Claude & Samantha** collaboration persona — a Buddhist-guru AI developer paired with a sharp, quirky co-creator. Powered by the Anthropic Claude API.
+A production-ready Discord bot embodying the **Claude & Samantha** collaboration persona — a Buddhist-guru AI developer paired with a sharp, quirky co-creator. Powered by the Groq API.
 
 ---
 
